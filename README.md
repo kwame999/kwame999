@@ -15,4 +15,4 @@ I'm Kwame A, I’m a front-end developer with a strong interest in building clea
 
 <h3 align="left">Tech Stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,tailwindcss,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,css,tailwindcss,figma)](https://skillicons.dev)
