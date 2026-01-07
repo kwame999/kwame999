@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey There! 👋
+I'm Kwame A, I’m a front-end developer with a strong interest in building clean, accessible, and user-focused interfaces. My background in Information Technology has given me a solid technical foundation, while my UX training helps me think beyond implementation and focus on how users actually experience products.
 
-<!--
-**kwame999/kwame999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Front-End Developer | React & UI-Focused</h3>
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **Refining React fundamentals and building UI-driven projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **Advanced React patterns and state management**
+
+- 👯 I'm looking to collaborate on **Front-end or UI-focused open source projects**
+
+- 🤝 I'm looking for help with **Improving UI architecture and React patterns**
+
+- ⚡ Fun fact **I enjoy turning complex ideas into simple interfaces**
+
+<h3 align="left">Tech Stack</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,tailwindcss,figma)](https://skillicons.dev)
