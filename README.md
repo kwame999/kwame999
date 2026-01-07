@@ -13,7 +13,7 @@ I'm Kwame A, I’m a front-end developer with a strong interest in building clea
 - 🤝 I'm looking for help with **Improving UI architecture and React patterns**
 
 - ⚡ Fun fact **I enjoy turning complex ideas into simple interfaces**
-<br>
+  
 <h3 align="left">Tech Stack</h3>
 
 ![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,css,tailwindcss,figma)
