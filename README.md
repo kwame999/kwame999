@@ -1,4 +1,5 @@
-# Hey There! 👋
+
+<h1>Hey There! 👋</h1>
 I'm Kwame A, I’m a front-end developer with a strong interest in building clean, accessible, and user-focused interfaces. My background in Information Technology has given me a solid technical foundation, while my UX training helps me think beyond implementation and focus on how users actually experience products.
 
 <h2 align="left">Front-End Developer | React & UI-Focused</h3>
@@ -12,7 +13,7 @@ I'm Kwame A, I’m a front-end developer with a strong interest in building clea
 - 🤝 I'm looking for help with **Improving UI architecture and React patterns**
 
 - ⚡ Fun fact **I enjoy turning complex ideas into simple interfaces**
-
+<br>
 <h3 align="left">Tech Stack</h3>
 
 ![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,css,tailwindcss,figma)
