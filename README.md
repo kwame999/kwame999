@@ -4,16 +4,20 @@ I'm Kwame A, I’m a front-end developer with a strong interest in building clea
 
 <h2 align="left">Front-End Developer | React & UI-Focused</h3>
 
-- 🔭 I'm currently working on **Refining React fundamentals and building UI-driven projects**
+-  I'm currently working on **Refining React fundamentals and building UI-driven projects**
 
-- 🌱 I'm currently learning **Advanced React patterns and state management**
+- I'm currently learning **Advanced React patterns and state management**
 
-- 👯 I'm looking to collaborate on **Front-end or UI-focused open source projects**
+-  I'm looking to collaborate on **Front-end or UI-focused open source projects**
 
-- 🤝 I'm looking for help with **Improving UI architecture and React patterns**
+-  I'm looking for help with **Improving UI architecture and React patterns**
 
-- ⚡ Fun fact **I enjoy turning complex ideas into simple interfaces**
+- Fun fact **I enjoy turning complex ideas into simple interfaces**
   
-<h3 align="left">Tech Stack</h3>
+<h3 align="left">Frontend</h3>
 
-![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,css,tailwindcss,figma)
+![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,css,tailwindcss) <br>
+<h3 align="left">Tools</h3>
+
+![My Skills](https://skillicons.dev/icons?i=supabase,figma)
+
