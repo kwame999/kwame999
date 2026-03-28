@@ -16,7 +16,7 @@ I'm Kwame A, I’m a front-end developer with a strong interest in building clea
   
 <h3 align="left">Frontend</h3>
 
-![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,css,tailwindcss) <br>
+![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,css,tailwindcss,nextjs) <br>
 <h3 align="left">Tools</h3>
 
 ![My Skills](https://skillicons.dev/icons?i=supabase,figma)
