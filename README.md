@@ -15,8 +15,9 @@ that actually work.
   PostgreSQL, and Gemini API integration with real-time data sync.
 
 - [**QuickPalettes**](https://github.com/kwame999/quickpalettes) - 
-  Published Figma plugin with modular TypeScript architecture and a 
+  Published Figma plugin for generating accessible color palettes and exporting production-ready variables with modular TypeScript architecture and a 
   custom Webpack pipeline. 35% bundle size reduction.
+
 ## All Projects
 
 - [**Kiwi UI**](https://github.com/kwame999/kiwi-ui) - Open-source 
@@ -28,7 +29,7 @@ that actually work.
   PostgreSQL, and Gemini API integration with real-time data sync.
 
 - [**QuickPalettes**](https://github.com/kwame999/quickpalettes) - 
-  Published Figma plugin with modular TypeScript architecture and a 
+  Published Figma plugin for generating accessible color palettes and exporting production-ready variables with modular TypeScript architecture and a 
   custom Webpack pipeline. 35% bundle size reduction.
 
 - [**Jsonai**](https://github.com/kwame999/quickpalettes) - 
