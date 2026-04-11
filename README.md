@@ -1,23 +1,40 @@
+# Hey, I'm Kwame 👋
 
-<h1>Hey There! 👋</h1>
-I'm Kwame A, I’m a front-end developer with a strong interest in building clean, accessible, and user-focused interfaces. My background in Information Technology has given me a solid technical foundation, while my UX training helps me think beyond implementation and focus on how users actually experience products.
+Frontend engineer building fast, accessible, and production-ready 
+interfaces. I care about clean code, great UX, and shipping things 
+that actually work.
 
-<h2 align="left">Front-End Developer | React & UI-Focused</h3>
+## Featured Projects
 
--  I'm currently working on **Refining React fundamentals and building UI-driven projects**
+- [**Kiwi UI**](https://github.com/kwame999/kiwi-ui) - Open-source 
+  component registry & documentation platform. Built with Next.js, 
+  TypeScript, Tailwind, and a shadcn/ui-style CLI distribution system.
 
-- I'm currently learning **Advanced React patterns and state management**
+- [**JTracker**](https://github.com/kwame999/jtracker) - AI-powered 
+  full-stack job tracking app. React 19, TypeScript, Supabase, 
+  PostgreSQL, and Gemini API integration with real-time data sync.
 
--  I'm looking to collaborate on **Front-end or UI-focused open source projects**
+- [**QuickPalettes**](https://github.com/kwame999/quickpalettes) - 
+  Published Figma plugin with modular TypeScript architecture and a 
+  custom Webpack pipeline. 35% bundle size reduction.
+## All Projects
 
--  I'm looking for help with **Improving UI architecture and React patterns**
+- [**Kiwi UI**](https://github.com/kwame999/kiwi-ui) - Open-source 
+  component registry & documentation platform. Built with Next.js, 
+  TypeScript, Tailwind, and a shadcn/ui-style CLI distribution system.
 
-- Fun fact **I enjoy turning complex ideas into simple interfaces**
-  
-<h3 align="left">Frontend</h3>
+- [**JTracker**](https://github.com/kwame999/jtracker) - AI-powered 
+  full-stack job tracking app. React 19, TypeScript, Supabase, 
+  PostgreSQL, and Gemini API integration with real-time data sync.
 
-![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,css,tailwindcss,nextjs) <br>
-<h3 align="left">Tools</h3>
+- [**QuickPalettes**](https://github.com/kwame999/quickpalettes) - 
+  Published Figma plugin with modular TypeScript architecture and a 
+  custom Webpack pipeline. 35% bundle size reduction.
 
-![My Skills](https://skillicons.dev/icons?i=supabase,figma)
+- [**Jsonai**](https://github.com/kwame999/quickpalettes) - 
+  Lightweight experimental JavaScript library that converts a simple text (using friendly syntax) into structured JSON. Designed for rapid prototyping, and AI prompt engineering.
 
+## Stack
+
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS · HTML5 · CSS3  
+**Tools:** Webpack · Vite · Supabase · PostgreSQL · Figma · Git
